@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,OAAQ;EACN,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,MAAM;;AAEhB,IAAK;EACH,UAAU,EAAE,cAAc;;ACL5B,UAAW;EACT,SAAS,EAAE,IAAI",
+"sources": ["../sass/base/_layout.scss","../sass/base/_media.scss"],
+"names": [],
+"file": "gundara-omega.no-query.css"
+}

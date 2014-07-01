@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAK;EACH,UAAU,EAAE,GAAG",
+"sources": ["../sass/omega-custom.styles.scss"],
+"names": [],
+"file": "omega-custom.styles.css"
+}
